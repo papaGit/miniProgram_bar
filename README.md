@@ -23,29 +23,29 @@
 
  ![](https://github.com/papaGit/miniProgram_bar/raw/master/mdImg/3.png)
  
- * 2.3【自定义组件.wxss】编写自己喜欢的样式。
+* 2.3【自定义组件.wxss】编写自己喜欢的样式。
 
  ![](https://github.com/papaGit/miniProgram_bar/raw/master/mdImg/4.png)
  
-  * 2.4【自定义组件.js】根据需要动态修改的数据在properties中定义好数据类型。
+* 2.4【自定义组件.js】根据需要动态修改的数据在properties中定义好数据类型。
 
  ![](https://github.com/papaGit/miniProgram_bar/raw/master/mdImg/5.png)
  
  
 ## step3：父组件引用子组件
- *3.1【父组件.json】在父组件中进行声明我要引入哪个组件，并给它取个名字。
+* 3.1【父组件.json】在父组件中进行声明我要引入哪个组件，并给它取个名字。
  
  ![](https://github.com/papaGit/miniProgram_bar/raw/master/mdImg/6.png)
   
- *3.2【父组件.wxml】在父组件中引入自定义的子组件。但是爸爸不是要这个名字哦，所以就关联到父子间的传值问题了，请看下一步。
+* 3.2【父组件.wxml】在父组件中引入自定义的子组件。但是爸爸不是要这个名字哦，所以就关联到父子间的传值问题了，请看下一步。
   
  ![](https://github.com/papaGit/miniProgram_bar/raw/master/mdImg/7.png)
  
- *3.3【父组件.js】在父组件中设置好导航栏的名字
+* 3.3【父组件.js】在父组件中设置好导航栏的名字
  
  ![](https://github.com/papaGit/miniProgram_bar/raw/master/mdImg/8.png)
   
- *3.4【父组件.wxml】把js设置好的值传个子组件，记得传值的格式哦！
+* 3.4【父组件.wxml】把js设置好的值传个子组件，记得传值的格式哦！
  
  ![](https://github.com/papaGit/miniProgram_bar/raw/master/mdImg/9.png)
  
