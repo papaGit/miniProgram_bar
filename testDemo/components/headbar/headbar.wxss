@@ -1,0 +1,24 @@
+/* components/headbar/headbar.wxss */
+.topBar{  
+    position: fixed;  
+    top: 0;  
+    right: 0;  
+    left: 0;  
+    bottom: 0;  
+    display: flex;  
+    justify-content: center;  
+    align-items: center;  
+    z-index: 1000;  
+    width: 100%;
+    height: 147rpx;
+    line-height:190rpx;
+    font-size:12pt;
+    color:#ffffff; 
+    background-color: #0182d9;
+}  
+.navigationBarTitleText{  
+    text-align:center;   
+    height: 100%;
+    flex: 1;
+} 
+

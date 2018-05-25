@@ -1,0 +1,4 @@
+<!--components/headbar/headbar.wxml-->
+<view id='topBar' class='topBar'>  
+  <view class='navigationBarTitleText'>{{navigationBarTitleText}}</view>  
+</view> 
