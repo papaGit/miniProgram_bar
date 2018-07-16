@@ -13,7 +13,7 @@
 
  ![](https://github.com/papaGit/miniProgram_bar/raw/master/mdImg/1.png)
  
- 
+ 阿斯顿撒多撒
 ## step2：子组件的配置
 * 2.1【自定义组件.json】进行自定义组件声明，当component 字段设为true时，表明此组件为自定义组件。
 
